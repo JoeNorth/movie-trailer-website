@@ -1,0 +1,6 @@
+/movie-trailers.iml
+/.idea
+/fresh_tomatoes.html
+/*.pyc
+/movies.sqlite
+*.DS_Store
